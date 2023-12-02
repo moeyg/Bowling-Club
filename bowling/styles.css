@@ -1,0 +1,47 @@
+* {
+  outline: none;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 100vh;
+  background-image: linear-gradient(to top, #3b3b3b, #616161);
+}
+
+header {
+  transform: rotate(-8deg);
+}
+
+#logo {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  font-size: 5em;
+  color: white;
+  background: black;
+}
+
+#subscription {
+  margin-top: 7.5px;
+  font-size: 1.5em;
+  color: white;
+  animation: flash;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+#start-button img {
+  position: absolute;
+  width: 10em;
+  margin: -4em 0 0 -8em;
+}
+
+#start-button img:hover {
+  width: 12em;
+  margin: -5em 0 0 -9em;
+  transition: all 0.3s;
+}
