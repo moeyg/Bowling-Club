@@ -1,24 +1,35 @@
-# Bowling-Club
+# Bowling Club
 
-멀티미디어와 가상현실 과목 과제로 진행한 `Bowling Club` 게임 입니다.
+`Bowling Club` 게임은 `Three.js` 라이브러리와 `Blender`를 활용하여 3D 그래픽을 기반으로 한 볼링 경기를 제공하는 프로젝트입니다.
 
-`Three.js` 와 `Blender` 를 활용하여 3D 게임 제작에 목표를 두었습니다.
+목표는 멀티미디어와 가상현실 기술을 익히고 이를 활용하여 생생한 게임 경험을 제공하는 것입니다.
 
-로컬 서버에서 실행하여 게임을 시작할 수 있습니다.
+`Blender`로 제작된 볼링핀과 볼링공을 볼링장 환경에서 `Three.js`를 통한 자연스러운 그래픽 애니메이션을 구현했습니다.
 
 <br>
 
-## Tool
+## Stack and Tools
 
+### Develop
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Design
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <br>
 
-## How To Game?
+## How to run and Test in local environment
+
+1. 깃 클론 합니다.
+2. 터미널에서 `npm install -g live-server` 후 `live-server` 실행합니다.
+3. `http://localhost:8080`로 접속하여 게임을 실행합니다. 
+
+<br>
+
+## Preview
 
 <center>
 <img src="./bowling/bowling/data/guid.gif" width="600px">
