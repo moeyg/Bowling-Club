@@ -33,5 +33,5 @@
 ## Preview
 
 <center>
-<img src="./bowling/bowling/data/guid.gif" width="600px">
+<img src="./bowling/data/guide.gif" width="600px">
 </center>
