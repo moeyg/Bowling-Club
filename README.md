@@ -11,12 +11,14 @@
 ## Stack and Tools
 
 ### Develop
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Design
+
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <br>
@@ -24,8 +26,7 @@
 ## How to run and Test in local environment
 
 1. 깃 클론 합니다.
-2. 터미널에서 `npm install -g live-server` 후 `live-server` 실행합니다.
-3. `http://localhost:8080`로 접속하여 게임을 실행합니다. 
+2. 터미널에서 `npm start`로 실행합니다.
 
 <br>
 
